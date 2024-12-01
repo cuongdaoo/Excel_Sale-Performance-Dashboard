@@ -1,4 +1,24 @@
 # Excel_Sale-Performance-Dashboard
+# Processing data
+![image](https://github.com/user-attachments/assets/e3d60501-fc46-46d2-8bc8-d634f30098f2)
+**Demo raw data**
+
+Organize 11 data tables:
+- Product output by month
+- Product output by highest volume by month
+- Employee revenue by month
+- Product revenue by highest volume by month
+- Saler table
+- Revenue of number of products and number of orders by month
+- Brand revenue by month
+- Brand revenue by device type
+- Revenue by product type
+- Top 10 highest revenue products
+- Revenue by region
+
+
+
+# II. Dashboard
 ![image](https://github.com/user-attachments/assets/84a634df-2ca8-4878-9367-051604208549)
 
 
